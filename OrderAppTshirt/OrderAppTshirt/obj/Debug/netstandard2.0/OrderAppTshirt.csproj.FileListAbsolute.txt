@@ -1,0 +1,15 @@
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\bin\Debug\netstandard2.0\OrderAppTshirt.deps.json
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\bin\Debug\netstandard2.0\OrderAppTshirt.dll
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\OrderAppTshirt.csprojAssemblyReference.cache
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\T-ShirtOrdering.xaml.g.cs
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\OrderAppTshirt.AssemblyInfoInputs.cache
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\OrderAppTshirt.AssemblyInfo.cs
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\bin\Debug\netstandard2.0\ref\OrderAppTshirt.dll
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\bin\Debug\netstandard2.0\OrderAppTshirt.pdb
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\PlaceOrder.xaml.g.cs
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\OrderAppTshirt.dll
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\ref\OrderAppTshirt.dll
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\OrderAppTshirt.pdb
+C:\Xamarin\OrderAppTshirt\OrderAppTshirt\OrderAppTshirt\obj\Debug\netstandard2.0\XamlC.stamp
